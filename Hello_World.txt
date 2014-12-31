@@ -1,0 +1,17 @@
+package Hello_World;
+
+/**
+ *
+ * @author Satya
+ */
+public class Hello_World {
+
+    /**
+     * @param args the command line arguments
+     */
+   public static void main(String[] args) {
+        System.out.println("Hello World!");
+   }
+
+}
+	  
